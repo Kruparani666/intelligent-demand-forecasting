@@ -1,8 +1,8 @@
+streamlit
 pandas
 numpy
-prophet
-statsmodels
+plotly
 scikit-learn
-matplotlib
-streamlit
-joblib
+statsmodels
+prophet==1.1.5
+cmdstanpy
